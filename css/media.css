@@ -1,0 +1,302 @@
+/*large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+
+}
+/*devices (desktops, 992px and up)*/
+@media (max-width: 991px) { 
+    /*banner start*/
+    .banner_content h1 {
+        margin-top: 208px;
+        margin-bottom: 201px;
+    }
+    /*course start*/
+    .mb_card{
+     margin-bottom: 15px;
+ }
+ /*footer start*/
+ .f-menu ul li a {
+    font-family: 'Dosis', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff;
+    padding: 0 5px;
+    border-right: 1px solid #ffffff;
+    text-decoration: none;
+}
+
+}
+
+
+
+/*devices (tablets, 768px and up)*/
+@media (max-width: 768px){ 
+    /*header start*/
+    .menu ul li a{
+        padding: 0 0!important;
+    }
+    /*banner start*/
+    .banner_content h1 {
+      margin-top: 156px;
+      margin-bottom: 156px;
+  }
+  /*kid2 start*/
+  .count_img h3 {
+    font-size: 20px;
+}
+/*course start*/
+.mb_card{
+    margin-bottom: 15px;
+}
+/*stand start*/
+#stand {
+    padding: 50px 0;
+}
+.twitter {
+    margin-bottom: 45px;
+}
+.single_img img{
+    width: 150px;
+}
+.single_content h1{
+    font-size: 19px;
+}
+.single_content p {
+    font-size: 12px;
+    line-height: 14px;
+    text-align: justify;
+}
+/*Skill start*/
+.skill {
+    margin-bottom: 50px;
+}
+.count-title {
+    font-size: 40px;
+}
+.skill img{
+    width: 80px;
+}
+.p_count{
+    font-size: 20px;
+}
+.skill p {
+   margin-bottom: 0px; 
+}
+/*event start*/
+#events_part {
+    padding: 50px 0;
+}
+.common_title h1 {
+    font-size: 20px;
+}
+.event_left {
+    margin-top: 12px;
+}
+.date_content h1{
+    font-size: 15px;
+}
+.date_content p{
+    font-size: 12px;
+    line-height: 10px;
+}
+.date_content2 {
+    font-size: 13px;
+    letter-spacing: 0.2px;
+    line-height: 14px;
+}
+.reg {
+    font-size: 14px;
+}
+.event_right {
+    margin-bottom: 15px;
+}
+.right_content h1{
+    font-size: 15px;
+}
+.right_content p{
+    font-size: 13px;
+    line-height: 14px;
+    text-align: justify;
+}
+.width_size{
+    width: 157px;
+}
+/*footer image*/
+#footer_img{
+    background-image: none;
+    background-color: #fff;
+    padding: 50px 0;
+}
+.p_r_0{
+    margin-right: -23px;
+}
+/*footer start*/
+.f-menu ul li a {
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0 4px;
+    border-right: 1px solid #ffffff;
+}
+
+}
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    /*header start*/
+    .img_size{
+     width: 150px;
+ }
+ .menu ul li a{
+    padding: 0 0!important;
+}
+/*banner*/
+#banner{
+    background-color: #f05c5c;
+    background-image: none;
+}
+.banner_content h1 {
+    margin-top: 60px;
+    margin-bottom: 35px;
+    font-size: 22px;
+}
+/*kid1 start*/
+#kid1{
+    padding: 50px 0;
+}
+.common_title h1 {
+    font-size: 16px;
+}
+.common_title hr {
+    margin-bottom: 20px;
+}
+.edu_content a img {
+    width: 160px;
+    margin-bottom: 20px;
+}
+.edu_content h1 {
+    font-size: 19px;
+}
+/*kids2 start*/
+#kids2{
+    padding: 50px 0;
+}
+.count_img h3 {
+    font-size: 20px;
+}
+/*course start*/
+.mb_card{
+    margin-bottom: 15px;
+}
+.btn-course {
+    margin-top: 13px;
+    margin-bottom: 25px;
+}
+/*gallery start*/
+.gallery_btn{
+    margin-top: 20px;
+}
+.gallery_size{
+    width: 170px;
+}
+/*stand start*/
+#stand {
+    padding: 62px 0;
+}
+.twitter{
+    margin-bottom: 50px;
+}
+.single_stand{
+    text-align: center;
+}
+.single_content h1 {
+    margin-top: 16px;
+}
+/*skill start*/
+#count_skill {
+    padding: 38px 0;
+}
+.common_title1 hr {
+    width: 91px;
+}
+.skill{
+    margin-bottom: 50px;
+}
+/*Event start*/
+#events_part {
+    padding: 50px 0;
+}
+.common_title2{
+    text-align: center;
+}
+.title_resize1 hr {
+   width: 241px;
+   margin: 0 auto;
+}
+.event_left {
+    margin-top: 20px;
+}
+.date_img {
+    text-align: center;
+}
+.date_img img {
+    width: 83px;
+}
+.date_content {
+    text-align: center;
+}
+.common_title3 h1 {
+    font-size: 16px;
+    text-align: center;
+}
+.date_img1 {
+    text-align: center;
+}
+.right_content h1 {
+    font-size: 20px;
+    margin-top: 26px;
+    text-align: center;
+}
+/*footer image start*/
+#footer_img{
+    background-color: #fff;
+    background-image: none;
+    padding: 50px 0;
+}
+.part1{
+    text-align: center;
+}
+.com_dot h1{
+    text-align: center;
+}
+.com_dot hr {
+    width: 111px;
+    margin: 0 auto;
+}
+
+.sm-pt-3{
+    padding-top: 15px;
+}
+.p_r_0{
+    padding-right: 0;
+}
+.t_center{
+    text-align: center;
+}
+.media_center{
+    text-align: center;
+}
+.footer_icon{
+    text-align: center;
+}
+/*footer start*/
+.f-menu ul li a {
+    font-family: 'Dosis', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0 1px;
+    border: none;
+
+}
+
+}
