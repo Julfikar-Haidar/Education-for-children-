@@ -130,7 +130,10 @@ header{
 }
 /*kids2 End*/
 /*course start*/
-#corse{}
+#course {
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
 
 /*card start*/
 
