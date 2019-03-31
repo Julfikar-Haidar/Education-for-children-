@@ -185,6 +185,10 @@
     font-size: 20px;
 }
 /*course start*/
+    #course {
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
 .mb_card{
     margin-bottom: 15px;
 }
